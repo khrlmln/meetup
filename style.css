@@ -22,7 +22,6 @@ body {
   line-height: 1.4;
   color: var(--light-color);
   background-color: var(--dark-color);
-  overflow-x: hidden;
 }
 a {
   text-decoration: none;
@@ -421,7 +420,7 @@ main > div {
 }
 .testimonials .item p:first-child {
   position: relative;
-  font-size: calc(1.5em + 1.5em);
+  font-size: calc(1.25em + 1em);
   color: inherit;
   line-height: 1.2;
   margin-bottom: 1em;
